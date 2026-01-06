@@ -1,0 +1,30 @@
+
+CUSTOMERS
+Records processed: 26
+Duplicates removed: 1
+Missing values handled: 5
+Records loaded: 25
+
+PRODUCTS
+Records processed: 20
+Duplicates removed: 0
+Missing values handled: product_id        0
+product_name      0
+category          0
+price             3
+stock_quantity    1
+dtype: int64
+Records loaded: 20
+
+SALES
+Records processed: 41
+Duplicates removed: 1
+Missing values handled: transaction_id      0
+customer_id         3
+product_id          2
+quantity            0
+unit_price          0
+transaction_date    0
+status              0
+dtype: int64
+Records loaded: 40

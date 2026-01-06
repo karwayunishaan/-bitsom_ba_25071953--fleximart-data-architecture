@@ -1,0 +1,21 @@
+product_id,product_name,category,price,stock_quantity
+P001,samsung galaxy s21,electronics,45999,150
+P002,nike running shoes,fashion,3499,80
+P003,apple macbook pro,electronics,32999,45
+P004,levi's jeans,fashion,2999,120
+P005,sony headphones,electronics,1999,200
+P006,organic almonds,groceries,899,0
+P007,hp laptop,electronics,52999,60
+P008,adidas t-shirt,fashion,1299,150
+P009,basmati rice 5kg,groceries,650,300
+P010,oneplus nord,electronics,32999,95
+P011,puma sneakers,fashion,4599,70
+P012,dell monitor 24inch,electronics,12999,40
+P013,woodland shoes,fashion,5499,55
+P014,iphone 13,electronics,69999,80
+P015,organic honey 500g,groceries,450,200
+P016,samsung tv 43inch,electronics,32999,35
+P017,h&m shirt,fashion,3249,90
+P018,masoor dal 1kg,groceries,120,500
+P019,boat earbuds,electronics,1499,250
+P020,reebok trackpants,fashion,1899,110
